@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido uma API para o back-end da plataforma Pass.in para realizar inscrições no evento e fazer o check-in.
 
 ## 💻 Github Pages
-[🔗 Clique aqui para acessar](https://nlw-unite-react-zeta.vercel.app/)
+[🔗 Clique aqui para acessar](http://localhost:3333/docs#/)
 
 ## **🤍 Contato**
 
