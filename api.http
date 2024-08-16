@@ -1,0 +1,34 @@
+POST http://localhost:3333/events
+Content-Type: application/json
+
+{
+  "title": 123,
+  "details": null,
+  "maximumAttendees": 1
+}
+
+###
+
+POST http://localhost:3333/events/0a51ce56-dd5f-4080-bcd7-32a5e7409095/attendees
+Content-Type: application/json
+
+{
+  "name": "Jhessica Frois",
+  "email": "jhessbrooke200@gmail.com"
+}
+
+###
+
+GET http://localhost:3333/events/0a51ce56-dd5f-4080-bcd7-32a5e7409095
+
+###
+
+GET http://localhost:3333/attendees/2/badge
+
+###
+
+GET http://localhost:3333/attendees/4/check-in
+
+###
+
+GET http://localhost:3333/events/0a51ce56-dd5f-4080-bcd7-32a5e7409095/attendees?query=jhessica
