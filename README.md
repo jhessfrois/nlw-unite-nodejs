@@ -34,11 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-## 💻 Deploy
+## 💻 Projeto
 
 Nesse projeto foi desenvolvido uma API para o back-end da plataforma Pass.in para realizar inscrições no evento e fazer o check-in.
 
-## 💻 Github Pages
+## 💻 Deploy
 [🔗 Clique aqui para acessar](http://localhost:3333/docs#/)
 
 ## **🤍 Contato**
